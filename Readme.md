@@ -2,7 +2,7 @@
 
 <h1 style="text-align: center; color: Purple;">Marketing over the telephone - Will clients subscribe/buy bank products?</h1>
 <p>This Python application using Jupyter Notebook explores a dataset containing information of approximately 42,000 records in order to determine which factors make a potential client subscribe to bank products.</p>
-<p><a href="https://github.com/Balu-A/*.ipynb" target="_blank">Jupiter Notebook used</a></p>
+<p><a href="https://github.com/Balu-A/BankProductsSubscribers/blob/main/PA3_Balaji.ipynb" target="_blank">Jupiter Notebook used</a></p>
 <p> The current CRISP-DM Process Model for Data Mining (see Figure 1) was followed.</p>
 <p align="center">
 <img src="images/CRISP.jpg" width="300px" height="300px">
